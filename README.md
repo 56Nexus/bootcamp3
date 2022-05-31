@@ -5,3 +5,4 @@ first feature commit
 second feature commit
 first feature2 commit
 second feature2 commit
+hotfix commit
